@@ -1,0 +1,111 @@
+nav h1{
+    text-align: start;
+}
+nav ul{
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    margin: 0;
+    justify-content: space-evenly;
+    font-size: smaller;
+    justify-content: center;
+    
+}
+nav li{
+    list-style: none;
+    
+}
+nav a:hover{
+    background-color:white;
+    border:aqua 1px solid;
+    color: aqua;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    
+
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 1rem;
+    justify-content: end;
+    font-size: medium;
+    
+    
+    
+}
+h3 a:hover{
+    background-color: blue;
+    color: white;
+    
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
+h3 a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    justify-content: center;
+}
+section img{
+    height: 300px;
+    width: 300px;
+
+ 
+    
+}
+.bbb {
+    display: flex;
+    padding: 2%;
+    flex-direction: row;
+    
+}
+section{
+    border: 3rem;
+    padding: 50px;
+
+}
+body{
+    margin: 0;
+    background-color:aquamarine;
+}
+h1 p{
+    text-align: center;
+}
+
+.bb{
+    display: flex;
+    padding: 2%;
+    flex-direction: row;
+}
+h1{
+    text-align: center;
+}
+
+
+.ss {
+   flex-direction: column;
+   display: flex;
+   padding: 0%;
+
+}
+.bb #Mobile_App:hover{
+    background-color: aqua;
+}
+.ss img{
+
+    height: 300px;
+    width: 300px;
+    padding: 3%;
+    justify-content: space-evenly;
+}
+
+
+
